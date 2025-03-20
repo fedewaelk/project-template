@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# Editor
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+# Build
+*.cache
+*.lock
+coverage/
+
+# ESLint y Prettier
+.eslintcache
+.prettierignore
